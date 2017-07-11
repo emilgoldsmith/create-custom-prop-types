@@ -1,6 +1,6 @@
 {
   "name": "create-custom-prop-types",
-  "version": "0.0.0",
+  "version": "0.0.1-alpha.0",
   "description": "An npm module for creating custom prop types to extend React's prop types",
   "main": "index.js",
   "repository": {
