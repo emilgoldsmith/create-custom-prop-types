@@ -1,0 +1,24 @@
+{
+  "name": "create-custom-prop-types",
+  "version": "0.0.0",
+  "description": "An npm module for creating custom prop types to extend React's prop types",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilgoldsmith/create-custom-prop-types.git"
+  },
+  "keywords": [
+    "prop-types",
+    "react",
+    "custom",
+    "create",
+    "create-custom-prop-types",
+    "custom-prop-types"
+  ],
+  "author": "Emil Goldsmith Olesen <emil.goldsmith@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emilgoldsmith/create-custom-prop-types/issues"
+  },
+  "homepage": "https://github.com/emilgoldsmith/create-custom-prop-types#readme"
+}
